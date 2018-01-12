@@ -4,5 +4,9 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-hacker
 
-gems:
+plugins:
   - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-avatar
