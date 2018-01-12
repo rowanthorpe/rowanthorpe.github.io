@@ -1,7 +1,7 @@
 title: blog.rowanthorpe.com
 description: My blog
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 plugins:
