@@ -128,7 +128,8 @@ hours on my powerful quad-core laptop, so expect it to take about that long, or 
 slow/loaded computer.
 
 **NB:** I haven't set this up as a proper blog yet, so I apologise for the lack of a commenting system, etc. Email
-me (find my email address via my github profile @rowanthorpe) if you feel strongly about something, and I will add
-notes here (with attribution) if in your email you give me permission to do so.
+me (find my email address via my github profile @rowanthorpe) or DM me at [my twitter](https://twitter.com/rowanthorpe)
+if you feel strongly about something, and I will add notes here (with attribution) if in your email you give me
+permission to do so.
 
 [Go back to main page]({% link index.md %}).

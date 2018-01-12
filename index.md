@@ -1,6 +1,6 @@
 # Rowan Thorpe's Blog
 
-{% avatar rowanthorpe %}
+{% avatar rowanthorpe %} [My twitter stream](https://twitter.com/rowanthorpe)
 
 This will be my new blog (hosted under github-pages), but its just a holding page for now until I migrate my
 [old blog](https://rowanthorpe.wordpress.com) to here. The code for this blog is
