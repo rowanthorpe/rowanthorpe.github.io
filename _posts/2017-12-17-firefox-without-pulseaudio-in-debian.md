@@ -12,9 +12,9 @@ legal issues because I accidentally compiled in something I shouldn't have witho
 solution would be if Debian maintainers would just add `--enable-jack` to the default build, but I suspect they
 would be reluctant to do so when upstream don't. Of course the usual disclaimer applies - use at your own risk,
 don't hold me responsible if it does something you don't expect, etc. It is a relatively short script so you
-might be able to understand most of what it does by glimpsing at it before you run it. Anyway it is just building
+might be able to understand most of what it does by looking through it before you run it. Anyway it is just building
 `.deb`s with an added flag and added dependency, so it shouldn't really be able to do much damage beyond what the
-standard package does anyway. To use the script edit the top few lines to your liking, run it with the `--help`
+standard package does anyway. To use the script edit the config-file to your liking, run it with the `--help`
 flag to see options, then run it. You may need to interact with it a few times (password if needed for sudo, etc)
 but the overwhelming majority of the time is spent non-interactively compiling Firefox so you can abandon post
 for a few hours once that is running. The firefox source-package is retrieved based on the `deb-src` lines in
@@ -71,7 +71,7 @@ systemd decided to overwrite my customizations on upgrade, even the customizatio
 that the worst way to deal with a bully is to be an "enabler", but then again you also have to choose your battles
 when you want to have time for anything else in your life. I should add at this point that instabilities from PA
 and systemd were the extremely rare anomalies despite my updating my systems against Debian Sid (`unstable`) and
-even including some packages from `experimental`. The key is actually reading the reportbug output and
+even including some packages from `experimental`. The key is actually reading the apt-listbugs output and
 occasionally holding off updating something until a "grave" bug is fixed.
 
 The only other moment of instability was a brief one very recently when I had to temporarily reinstall PulseAudio
