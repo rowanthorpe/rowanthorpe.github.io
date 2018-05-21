@@ -3,8 +3,6 @@ description: My blog
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-hacker
-author:
-  rowanthorpe
 
 plugins:
   - jekyll-mentions
