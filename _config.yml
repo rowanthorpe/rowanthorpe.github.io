@@ -5,6 +5,7 @@ show_downloads: false
 theme: jekyll-theme-hacker
 twitter:
   username: rowanthorpe
+author: rowanthorpe
 
 plugins:
   - jekyll-mentions
