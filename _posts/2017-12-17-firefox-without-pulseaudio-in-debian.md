@@ -1,5 +1,3 @@
-# Firefox without PulseAudio in Debian
-
 ### TL;DR
 
 Download and run [my automation script](https://github.com/rowanthorpe/build-jack-fox) if you want to compile
